@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.9.2",
+    "style-dictionary-utils": "^2.4.1"
+  },
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
